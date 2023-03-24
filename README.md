@@ -1,9 +1,10 @@
 # E-governmentAdoption-EvaluationGuidelines-Reference-Implementation
 This reference implementation provides the guidelines for evaluating the adoption behavior of e-government services from the citizens' perspective.
-
 We have proposed a conceptual framework to evaluate citizens' adoption behavior of e-government services. We then developed a web-based questionnaire based on this framework and also we implemented the data analysis process to adequately evaluate the collected data.
 
 
+
+# The proposed framework:
 The proposed conceptual framework contains one dependent factor, Adoption Behavior (for e-government services), and two primary independent constructs, Design Factors (DF) and Human Factors (HF). These two independent constructs provide the independent factors. The figure below shows the proposed conceptual framework and the relationships between the five independent factors and Adoption Behavior:
 
 1. Perceived Ease of Use (PEOU): PEOU, in the TAM model, refers to the perception of the system’s easiness and users’ ability to use it. It reflects the usability of the system and users’ intention to adopt the system which is free of effort (Davis, 1989).
@@ -21,17 +22,13 @@ Adoption Behavior is a dependent factor that describes the likelihood of using e
 ![Framework](https://user-images.githubusercontent.com/60638810/226831026-23cb5735-63b2-412d-991d-6321aea3bc39.png)
 
 
---------------------------------------------------------------------------------------------------------------------------------
 
-![image](https://user-images.githubusercontent.com/60638810/227397913-860c3a9c-68d7-479f-aefb-40773b3a4cc1.png)
-
+# Required SW:
 To run this reference implementation, you need a Python notebook, either Google Colab or Jupyter Notebook.
 
 
---------------------------------------------------------------------------------------------------------------------------------
 
-![image](https://user-images.githubusercontent.com/60638810/227398066-3dd9ecbf-51d7-4746-b5fb-43204d262c0e.png)
-
+# The list of files:
 This reference implemntation contains the following files:
 1.	Survey.pdf: the developed web-based questionnaire that went through iterative assessment of validity and reliability tests. 
 
