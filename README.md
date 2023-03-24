@@ -24,12 +24,14 @@ Adoption Behavior is a dependent factor that describes the likelihood of using e
 --------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/60638810/227397913-860c3a9c-68d7-479f-aefb-40773b3a4cc1.png)
+
 To run this reference implementation, you need a Python notebook, either Google Colab or Jupyter Notebook.
 
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/60638810/227398066-3dd9ecbf-51d7-4746-b5fb-43204d262c0e.png)
+
 This reference implemntation contains the following files:
 1.	Survey.pdf: the developed web-based questionnaire that went through iterative assessment of validity and reliability tests. 
 
