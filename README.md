@@ -19,3 +19,30 @@ The proposed conceptual framework contains one dependent factor, Adoption Behavi
 Adoption Behavior is a dependent factor that describes the likelihood of using e-government services.
 
 ![Framework](https://user-images.githubusercontent.com/60638810/226831026-23cb5735-63b2-412d-991d-6321aea3bc39.png)
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+•	Required SW:![image](https://user-images.githubusercontent.com/60638810/227397913-860c3a9c-68d7-479f-aefb-40773b3a4cc1.png)
+
+To run this reference implementation, you need a Python notebook, either Google Colab or Jupyter Notebook.
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+•	List of attached files:![image](https://user-images.githubusercontent.com/60638810/227398066-3dd9ecbf-51d7-4746-b5fb-43204d262c0e.png)
+This reference implemntation contains the following files:
+
+1.	Survey.pdf: the developed web-based questionnaire that went through iterative assessment of validity and reliability tests. 
+
+2.	RawData.csv: This is the final version of the CSV file after collecting the responses from citizens. Your file should follow this format before proceeding to the data analysis process. 
+
+3.	Data_Analysis_RI.pdf: In this file, we explained in detail the data analysis steps required to evaluate citizens’ adoption behavior of e-government services. We provided a list of crucial assessments along with the threshold value for each one. 
+
+4.	CODE.ipynb: This is a Python Notebook where we implemented the data analysis steps explained in (Data_Analysis_RI.pdf). At the beginning of this notebook, we have listed a number of packages to be installed and libraries to be imported. Then, we provided the required code for each data analysis assessment.
+
+![image](https://user-images.githubusercontent.com/60638810/227399354-5e5bdca9-ce7f-41d1-8147-d021bb354648.png)
+
+
+
