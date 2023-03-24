@@ -4,6 +4,8 @@ We have proposed a conceptual framework to evaluate citizens' adoption behavior 
 
 
 
+
+
 # The proposed framework:
 The proposed conceptual framework contains one dependent factor, Adoption Behavior (for e-government services), and two primary independent constructs, Design Factors (DF) and Human Factors (HF). These two independent constructs provide the independent factors. The figure below shows the proposed conceptual framework and the relationships between the five independent factors and Adoption Behavior:
 
